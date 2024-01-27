@@ -19,8 +19,8 @@ pkg/
 /vendor/
 
 # IDE-specific files
-.idea/
-.vscode/
+/.idea/
+/.vscode/
 
 # OS-specific files
 .DS_Store
